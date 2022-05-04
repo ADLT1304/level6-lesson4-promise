@@ -14,9 +14,8 @@
 // Instructions:
 //
 // Step 1: Inside the section of this file that says
-//				 "Assignment Code Goes Here", create a new Promise
-//         object by calling the pre-made function named
-//         "fetchConcertPromise" and storing the returned
+//				 "Assignment Code Goes Here", call the pre-made function
+//         named "fetchConcertPromise" and store the returned
 //         Promise object into a variable named whatever you
 //         prefer.
 //
