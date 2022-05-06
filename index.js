@@ -52,6 +52,14 @@
 
 
 // ⬇⬇⬇⬇⬇⬇ Assignment Code Goes Here ⬇⬇⬇⬇⬇⬇
+const returned = fetchConcertPromise() 
+
+returned.then( (success) => {
+	console.log(success)
+}).catch ((failure)=>{
+	console.log(failure)
+})
+
 
 
 
